@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Parsa
 
-<!--
-**NSkilI/NSkilI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biology student with a growing focus on programming.  
+I build small, practical tools and learn by shipping.
 
-Here are some ideas to get you started:
+### Current focus
+- Python for data analysis and automation  
+- Web fundamentals (APIs, backend logic)  
+- Applying code to biological data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+Python · HTML · CSS · Git
+
+### Contact
+GitHub is the best place to reach me.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_title=true)
