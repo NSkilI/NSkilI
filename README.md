@@ -13,5 +13,3 @@ Python · HTML · CSS · Git
 
 ### Contact
 GitHub is the best place to reach me.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NSkilI&show_icons=true&theme=dark&hide_title=true)
