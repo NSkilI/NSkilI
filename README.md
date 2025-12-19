@@ -9,7 +9,7 @@ I build small, practical tools and learn by shipping.
 - Applying code to biological data
 
 ### Tools
-Python · HTML · CSS · Git
+Python · HTML · CSS 
 
 ### Contact
 GitHub is the best place to reach me.
