@@ -10,10 +10,10 @@ I enjoy learning by building small projects, experimenting with new tools, and t
 
 ###  About Me
 
-- 🎓 Studying Cell and Molecular Biology
-- 💻 Learning Python and programming fundamentals
-- 🧬 Interested in Bioinformatics and Computational Biology
-- 🌐 Exploring Web Development, APIs, and Backend Development
+-  Studying Cell and Molecular Biology
+-  Learning Python and programming fundamentals
+-  Interested in Bioinformatics and Computational Biology
+-  Exploring Web Development, APIs, and Backend Development
 
 ###  Current Focus
 
@@ -21,7 +21,7 @@ I enjoy learning by building small projects, experimenting with new tools, and t
 - **Bioinformatics** 
 - **Web Development** 
 
-### 🛠️ Tech Stack & Learning
+###  Tech Stack & Learning
 
 **Languages & Development**
 
